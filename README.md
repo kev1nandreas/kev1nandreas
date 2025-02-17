@@ -6,7 +6,7 @@
 
 <div align="left">
   
-  - 🔭 I’m currently studying in **ITS**
+  - 🔭 I’m currently studying at **ITS**
   
   - 🌱 I’m currently learning **web development and data science**
     
