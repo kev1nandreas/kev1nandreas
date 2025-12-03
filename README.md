@@ -1,19 +1,50 @@
 <h1 align="left">Hi 👋, I'm Kevin Andreas</h1>
+<h3 align="left">Web Developer • Data Enthusiast • Informatics Student @ ITS</h3>
 
-<h3 align="left">An undergraduate informatics student @ ITS </h3>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kev1nandreas&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kev1nandreas&label=Profile%20views&color=0e75b6&style=flat" alt="kev1nandreas" /> </p>
+---
 
-<div align="left">
-  
-  - 🔭 I’m currently studying at **ITS**
-  
-  - 🌱 I’m currently learning **web development and data science**
-    
-  - 📫 How to reach me **kevin.andreascn@gmail.com**
+### 🚀 About Me
+
+- 🎓 Undergraduate Informatics student at **Institut Teknologi Sepuluh Nopember (ITS)**
+- 🌱 Currently learning **Web Development (Next.js, Laravel)** and **Data Science**
+- 🧠 Passionate about **building useful digital products**
+- 📧 Reach me at **kevin.andreascn@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Core Skills**
+
+<div>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php" height="40"/>
 </div>
 
-<div align="left">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kev1nandreas)](https://github.com/kev1nandreas/github-readme-stats)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kev1nandreas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+**Web & Frameworks**
+
+<div>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,laravel,nodejs,tailwind" height="40"/>
 </div>
+
+**Tools & Others**
+
+<div>
+  <img src="https://skillicons.dev/icons?i=docker,git,mysql,postgres,figma" height="40"/>
+</div>
+
+---
+
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/kevinandreas/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="mailto:kevin.andreascn@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+</p>
