@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 - 🎓 Undergraduate Informatics student at **Institut Teknologi Sepuluh Nopember (ITS)**
-- 🌱 Currently learning **Web Development (Next.js, Laravel)** and **Data Science**
+- 🌱 Currently learning **Web Development (Next.js, Laravel, and Go)** and **Data Science**
 - 🧠 Passionate about **building useful digital products**
 - 📧 Reach me at **kevin.andreascn@gmail.com**
 
