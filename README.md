@@ -21,19 +21,19 @@
 **Languages & Core Skills**
 
 <div>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,go,c,cpp,css" height="40"/>
 </div>
 
 **Web & Frameworks**
 
 <div>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,laravel,nodejs,tailwind" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,laravel,nodejs,tailwind,bootstrap" height="40"/>
 </div>
 
 **Tools & Others**
 
 <div>
-  <img src="https://skillicons.dev/icons?i=docker,git,mysql,postgres,figma" height="40"/>
+  <img src="https://skillicons.dev/icons?i=docker,git,mysql,postgres,figma,grafana,gcp,aws" height="40"/>
 </div>
 
 ---
