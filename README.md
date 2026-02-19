@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Kevin Andreas</h1>
-<h3 align="left">Web Developer • Data Enthusiast • Informatics Student @ ITS</h3>
+<h3 align="left">Software Engineer • Data Enthusiast • Informatics Student @ ITS</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kev1nandreas&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
